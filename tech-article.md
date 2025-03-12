@@ -1,0 +1,1 @@
+Computer science is the study of computation, algorithms, and the systems that bring them to life. It spans a vast array of topics, from the theoretical foundations of computing—like data structures and complexity theory—to practical applications, such as software development, artificial intelligence, and cybersecurity
